@@ -1,5 +1,5 @@
 //Import database connection from config golder
-let db = require('../config1');
+let db = require('../config');
 //Import bcrypt module
 let {
     hash,
